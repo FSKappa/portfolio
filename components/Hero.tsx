@@ -27,10 +27,6 @@ export default function Hero() {
             View projects
           </a>
         </div>
-        <p className="mt-8 border-l-2 border-indigo-200 pl-4 text-sm text-zinc-500">
-          Currently booked on a long-term project until mid-2027, but open to
-          discussing future work.
-        </p>
       </div>
     </section>
   );

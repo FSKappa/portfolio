@@ -6,10 +6,10 @@ const projects = [
       "A platform for tracking vehicle maintenance and service history, with a Next.js front end and a Supabase backend for auth, data storage and real-time updates.",
   },
   {
-    title: "Portuguese mortgage cost simulator",
-    stack: "React",
+    title: "Personal finance tracker",
+    stack: "Next.js · Supabase",
     description:
-      "A simulator that helps users estimate the real costs of a mortgage in Portugal, covering interest, fees and other associated expenses.",
+      "A personal finance app that imports bank statement extracts and automatically turns them into categorized transactions, making it easy to see where your money is going.",
   },
 ];
 

@@ -9,7 +9,9 @@ export default function About() {
           <p>
             I&apos;m a software engineer based in Lisbon, Portugal, with close to
             a decade of experience building and maintaining business-critical
-            systems. Currently at Unit4, I work on .NET APIs for procurement
+            systems. Online, I go by{" "}
+            <span className="font-medium text-zinc-900">Fskappa</span>.
+            Currently at Unit4, I work on .NET APIs for procurement
             software — maintaining existing features, shipping new ones, and
             keeping things reliable with automated testing (SpecFlow) and
             Azure DevOps pipelines.
