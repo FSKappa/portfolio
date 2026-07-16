@@ -1,5 +1,5 @@
 const EMAIL = "francisco.antunes.santos@gmail.com";
-const LINKEDIN_URL = "https://www.linkedin.com/in/francisco-santos";
+const LINKEDIN_URL = "https://www.linkedin.com/in/francisco-santos-173246114/";
 
 export default function Contact() {
   return (
